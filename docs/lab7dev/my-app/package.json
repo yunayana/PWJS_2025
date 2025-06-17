@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yunayana.github.io/PWJS_2025/lab7prod",
+  "homepage": "https://yunayana.github.io/PWJS_2025/lab7dev/lab7prod",
 
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
